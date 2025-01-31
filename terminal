@@ -1,0 +1,13 @@
+for style we use = bootstrap //we copy cdn=style link and js=script
+for icons we use = fontawesome etc //copy cdn link by writing on google eg=fontawesome cdn 
+
+<!-- navbar -->
+1.line from bottom=border-bottom 
+2.to be on top=sticky-top
+3.giving it height and background should not be transparent so white color=.navbar{
+    height: 5rem;
+    background-color: white;
+}
+
+<!-- footer -->
+ 1.for copyright symbol=&copy;
